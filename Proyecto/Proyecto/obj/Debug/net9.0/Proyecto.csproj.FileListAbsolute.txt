@@ -1,0 +1,14 @@
+C:\Users\Iker\Desktop\Proyecto\proyecto\bin\Debug\net9.0\Proyecto.exe
+C:\Users\Iker\Desktop\Proyecto\proyecto\bin\Debug\net9.0\Proyecto.deps.json
+C:\Users\Iker\Desktop\Proyecto\proyecto\bin\Debug\net9.0\Proyecto.runtimeconfig.json
+C:\Users\Iker\Desktop\Proyecto\proyecto\bin\Debug\net9.0\Proyecto.dll
+C:\Users\Iker\Desktop\Proyecto\proyecto\bin\Debug\net9.0\Proyecto.pdb
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.AssemblyInfo.cs
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.dll
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\refint\Proyecto.dll
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.pdb
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\Proyecto.genruntimeconfig.cache
+C:\Users\Iker\Desktop\Proyecto\proyecto\obj\Debug\net9.0\ref\Proyecto.dll
